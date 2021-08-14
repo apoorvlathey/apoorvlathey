@@ -10,5 +10,4 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=codinmaster&count_private=true&show_icons=true&theme=radical&bg_color=0,0f0c29,302b63,24243e" alt="Apoorv's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodinMaster" alt="CodinMaster Streak" />
 </p>
